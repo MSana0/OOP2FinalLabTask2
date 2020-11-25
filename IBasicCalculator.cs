@@ -8,5 +8,9 @@ namespace OOP2FinalLabTask2
 {
     interface IBasicCalculator
     {
+        int Sum(int x, int y);
+        int Sub(int x, int y);
+        int Mul(int x, int y);
+        int Div(int x, int y);
     }
 }

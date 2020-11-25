@@ -1,0 +1,7 @@
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\bin\Debug\OOP2FinalLabTask2.exe.config
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\bin\Debug\OOP2FinalLabTask2.exe
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\bin\Debug\OOP2FinalLabTask2.pdb
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\obj\Debug\OOP2FinalLabTask2.csprojAssemblyReference.cache
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\obj\Debug\OOP2FinalLabTask2.csproj.CoreCompileInputs.cache
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\obj\Debug\OOP2FinalLabTask2.exe
+C:\Users\MARIUMSANAMIM\source\repos\OOP2FinalLabTask2\OOP2FinalLabTask2\obj\Debug\OOP2FinalLabTask2.pdb
