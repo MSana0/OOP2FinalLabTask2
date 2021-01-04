@@ -10,6 +10,7 @@ namespace OOP2FinalLabTask2
     {
         static void Main(string[] args)
         {
+            
         }
     }
 }
